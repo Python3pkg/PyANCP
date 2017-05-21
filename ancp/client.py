@@ -2,8 +2,8 @@
 
 Copyright 2017 Christian Giese <cgiese@juniper.net>
 """
-from __future__ import print_function
-from __future__ import unicode_literals
+
+
 from builtins import bytes
 from ancp.subscriber import Subscriber
 from datetime import datetime
